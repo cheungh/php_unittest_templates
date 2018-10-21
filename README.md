@@ -13,5 +13,5 @@ if not, read composer installation guide on howto
 
 ### Run individually
 
-`$ phpunit --bootstrap vendor/autoload.php TEST/string_test.php
- $ phpunit --bootstrap vendor/autoload.php TEST/add_test.php
+`$ phpunit --bootstrap vendor/autoload.php TEST/string_test.php  
+ $ phpunit --bootstrap vendor/autoload.php TEST/add_test.php`
