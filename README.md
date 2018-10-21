@@ -1,3 +1,6 @@
+### PHP Version
+Template classes and examples only runs on 7.*
+I used strict typing in test function parameters and returns
 
 ### install phpunit
 assuming composer has been installed in the running environment
